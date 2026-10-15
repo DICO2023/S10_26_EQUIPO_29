@@ -1,0 +1,15 @@
+# API
+fastapi==0.143.2
+uvicorn==0.54.0
+
+# Contratos (modelos de datos compartidos)
+pydantic==2.14.1
+
+# Llamadas HTTP (API de GitHub) y cliente de pruebas de FastAPI
+httpx==0.28.1
+
+# Variables de entorno desde .env (tokens, claves)
+python-dotenv==1.2.4
+
+# Pruebas
+pytest==9.1.1
